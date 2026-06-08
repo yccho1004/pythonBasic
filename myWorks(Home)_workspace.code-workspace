@@ -11,6 +11,14 @@
 		{
 			"name": "common",
 			"path": "../common"
+		},
+		{
+			"name": "arduino_UNO1",
+			"path": "../arduinoBasic/platformio_projects/arduino_UNO1"
+		},
+		{
+			"name": "D1minipro_iot1",
+			"path": "../arduinoBasic/platformio_projects/D1minipro_iot1"
 		}
 	]
 }
