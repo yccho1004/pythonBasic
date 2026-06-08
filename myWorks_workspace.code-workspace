@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../arduinoBasic/platformio_projects/arduinoUNO1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../pythonFiles/room310/Scripts/working"
+		}
+	],
+	"settings": {}
+}
