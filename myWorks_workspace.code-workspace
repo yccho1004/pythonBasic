@@ -1,13 +1,23 @@
 {
 	"folders": [
 		{
-			"path": "../arduinoBasic/platformio_projects/arduinoUNO1"
-		},
-		{
+			"name": "pythonBasic",
 			"path": "."
 		},
 		{
+			"name": "working",
 			"path": "../../pythonFiles/room310/Scripts/working"
+		},
+		{
+			"path": "../arduinoBasic"
+		},
+		{
+			"name": "arduino_UNO1",
+			"path": "../arduinoBasic/platformio_projects/arduino_UNO1"
+		},
+		{
+			"name": "D1minipro_iot1",
+			"path": "../arduinoBasic/platformio_projects/D1minipro_iot1"
 		}
 	],
 	"settings": {}
