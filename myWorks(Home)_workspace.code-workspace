@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "arduinoBasic",
+			"path": "../arduinoBasic"
+		},
+		{
+			"name": "pythonBasic",
+			"path": "."
+		},
+		{
+			"name": "common",
+			"path": "../common"
+		}
+	]
+}
