@@ -1,12 +1,14 @@
 {
 	"folders": [
 		{
-			"name": "pythonBasic",
+			"path": "../arduinoBasic/platformio_projects/arduinoUNO1"
+		},
+		{
 			"path": "."
 		},
 		{
-			"name": "working",
 			"path": "../../pythonFiles/room310/Scripts/working"
+<<<<<<< HEAD
 		},
 		{
 			"path": "../arduinoBasic"
@@ -22,6 +24,8 @@
 		{
 			"name": "UNO_U8g_menu",
 			"path": "../arduinoBasic/platformio_projects/UNO_U8g_menu"
+=======
+>>>>>>> 872771b90d2f164b23da752cc072c01c94d3cd8c
 		}
 	],
 	"settings": {}
