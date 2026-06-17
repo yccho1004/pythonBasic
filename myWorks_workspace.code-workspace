@@ -8,8 +8,7 @@
 		},
 		{
 			"path": "../../pythonFiles/room310/Scripts/working"
-<<<<<<< HEAD
-=======
+<<<<<<<<< Temporary merge branch 1
 		},
 		{
 			"path": "../arduinoBasic"
@@ -25,7 +24,8 @@
 		{
 			"name": "UNO_U8g_menu",
 			"path": "../arduinoBasic/platformio_projects/UNO_U8g_menu"
->>>>>>> e116e09fef70f38998365b8abaa88d08fc2e38f5
+=========
+>>>>>>>>> Temporary merge branch 2
 		}
 	],
 	"settings": {}
