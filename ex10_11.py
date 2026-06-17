@@ -10,7 +10,7 @@ xPos, yPos= 0,0
 window.geometry("210x210")
 
 for i in range(0,9):
-    photoList[i]=PhotoImage(file="e:/working/gif/"+fnameList[i])
+    photoList[i]=PhotoImage(file="d:/working/imageData/gif/"+fnameList[i])
     btnList[i]=Button(window, image=photoList[i])
 
 num=0

@@ -8,6 +8,24 @@
 		},
 		{
 			"path": "../../pythonFiles/room310/Scripts/working"
+<<<<<<< HEAD
+=======
+		},
+		{
+			"path": "../arduinoBasic"
+		},
+		{
+			"name": "arduino_UNO1",
+			"path": "../arduinoBasic/platformio_projects/arduino_UNO1"
+		},
+		{
+			"name": "D1minipro_iot1",
+			"path": "../arduinoBasic/platformio_projects/D1minipro_iot1"
+		},
+		{
+			"name": "UNO_U8g_menu",
+			"path": "../arduinoBasic/platformio_projects/UNO_U8g_menu"
+>>>>>>> e116e09fef70f38998365b8abaa88d08fc2e38f5
 		}
 	],
 	"settings": {}
